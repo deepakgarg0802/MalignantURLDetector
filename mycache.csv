@@ -1,3 +1,6 @@
 URL,malicious
 http://google.com,0
-
+http://fb.com,0
+http://abc.com,2
+http://mskphoto.com/file.exe,2
+http://paypal-manager-login.net/konflikt/66211165125,1
